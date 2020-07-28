@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "line_sensor", "line_sensor\line_sensor.cproj", "{E92E8FA2-9258-47D7-8A1C-5B00D092A313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92E8FA2-9258-47D7-8A1C-5B00D092A313}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E92E8FA2-9258-47D7-8A1C-5B00D092A313}.Debug|AVR.Build.0 = Debug|AVR
+		{E92E8FA2-9258-47D7-8A1C-5B00D092A313}.Release|AVR.ActiveCfg = Release|AVR
+		{E92E8FA2-9258-47D7-8A1C-5B00D092A313}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
